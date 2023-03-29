@@ -1,0 +1,25 @@
+1680103267
+s:1150:"
+
+<div id="Help" class="clearfix bca-help">
+
+	<h2 class="head bca-help__title">
+		<i class="bca-icon--question-circle" data-bca-btn-size="md"></i>
+		ヘルプ	</h2>
+
+	<div class="body bca-help__body">
+		
+
+<p>baserCMSのプラグインの管理を行います。<br>初期状態では、メールフォーム・フィードリーダー・ブログの３つのプラグインが標準プラグインとして同梱されており、インストールも完了しています。各プラグインの%sから各プラグインの管理が行えます。</p>
+<div class="example-box">
+	<div class="head">新しいプラグインのインストール方法</div>
+	<ol>
+		<li>app/Plugin/ フォルダに、入手したプラグインのフォルダをアップロードします。</li>
+		<li>プラグイン一覧に、新しいプラグインが表示されますので、その行の <i class="bca-btn-icon" data-bca-btn-type="download"></i> をクリックします。</li>
+		<li>登録画面が表示されますので「登録」ボタンをクリックしてインストールを完了します。</li>
+	</ol>
+</div>
+	</div>
+
+	<!-- / #Help --></div>
+";

@@ -1,0 +1,34 @@
+1766412460
+a:1:{i:0;a:2:{s:4:"Page";a:7:{s:2:"id";s:1:"2";s:8:"contents";s:527:"<h2>会社案内</h2>
+
+<h3>会社データ</h3>
+
+<table>
+	<tbody>
+		<tr>
+			<th>会社名</th>
+			<td>baserCMSサンプル</td>
+		</tr>
+		<tr>
+			<th>設立</th>
+			<td>2020年9月</td>
+		</tr>
+		<tr>
+			<th>所在地</th>
+			<td>福岡県福岡市</td>
+		</tr>
+		<tr>
+			<th>事業内容</th>
+			<td>
+			<ul>
+				<li>事業内容１</li>
+				<li>事業内容２</li>
+				<li>事業内容３</li>
+			</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<h3>アクセスマップ</h3>
+<?php $this->BcBaser->googleMaps(["width" => 585]) ?>";s:5:"draft";s:0:"";s:13:"page_template";s:0:"";s:4:"code";s:0:"";s:8:"modified";s:19:"2020-09-14 19:53:48";s:7:"created";s:19:"2015-06-26 20:34:06";}s:7:"Content";a:34:{s:2:"id";s:1:"5";s:4:"name";s:5:"about";s:6:"plugin";s:4:"Core";s:4:"type";s:4:"Page";s:9:"entity_id";s:1:"2";s:3:"url";s:6:"/about";s:7:"site_id";s:1:"0";s:8:"alias_id";N;s:20:"main_site_content_id";N;s:9:"parent_id";s:1:"1";s:3:"lft";s:1:"6";s:4:"rght";s:1:"7";s:5:"level";s:1:"1";s:5:"title";s:12:"会社案内";s:11:"description";s:0:"";s:8:"eyecatch";s:0:"";s:9:"author_id";s:1:"1";s:15:"layout_template";s:0:"";s:6:"status";b:1;s:13:"publish_begin";N;s:11:"publish_end";N;s:11:"self_status";b:1;s:18:"self_publish_begin";N;s:16:"self_publish_end";N;s:14:"exclude_search";b:0;s:12:"created_date";s:19:"2016-07-29 18:13:55";s:13:"modified_date";s:19:"2020-09-14 19:52:55";s:9:"site_root";b:0;s:12:"deleted_date";N;s:7:"deleted";b:0;s:12:"exclude_menu";b:0;s:10:"blank_link";b:0;s:7:"created";s:19:"2016-07-29 18:13:56";s:8:"modified";s:19:"2020-09-14 19:53:48";}}}
